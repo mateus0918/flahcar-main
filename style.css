@@ -1,5 +1,14 @@
 body{
-    background-color: rgb(107, 119, 226);
+    background-color: rgb(107, 212, 226);
+    font-family: 'Courier New', Courier, monospace;
+}
+#container{
+    display: flex;
+}
+
+.cartao{
+    margin: 1rem 1rem;
+    background-color: rgb(47, 180, 180);
 }
 
 footer{
